@@ -1,4 +1,4 @@
-package Estoque;
+package estoque;
 
 import java.util.HashMap;
 import java.util.Map;
